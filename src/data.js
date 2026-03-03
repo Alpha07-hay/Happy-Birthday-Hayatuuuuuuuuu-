@@ -1,8 +1,8 @@
 // Your Birthday Date (Format: yyyy-mm-ddTHH:MM:SS)
-export const BIRTHDAY_DATE = "2025-07-18T00:00:00";
+export const BIRTHDAY_DATE = "2025-03-14T00:00:00";
 
 // Add recipient's name here.
-export const NAME = "Madam Jii"
+export const NAME = "My Preetiest Hayat ✨💫"
 
 
 // Special Messages Screen
@@ -14,7 +14,7 @@ export const messages = [
     {
         id: 1,
         color: "from-pink-500 to-rose-500",
-        title: "With Love",
+        title: "My Gurl'",
         message: "You bring so much joy and happiness to everyone around you! Your smile lights up every room.",
         showIcon: true,
     },
@@ -44,7 +44,7 @@ export const messages = [
 
 // Photo Gallery Screen
 // Heading text for the Photo Gallery section (displayed at the top)
-export const photoScreenHeading = "Moments With You"
+export const photoScreenHeading = "Best Moments Of My Life !! "
 
 // Subheading text for the Photo Gallery section (optional - you can remove or leave it blank if not needed)
 export const photoScreenSubHeading = "Beautiful moments with Madam Jii"
@@ -58,6 +58,10 @@ export const photos = [
     { id: 2, src: "/images/2.jpg" },
     { id: 3, src: "/images/3.jpg" },
     { id: 4, src: "/images/4.jpg" },
+    { id: 5, src: "/images/5.jpg" },
+    { id: 6, src: "/images/6.jpg" },
+    { id: 7, src: "/images/7.jpg" },
+    { id: 8, src: "/images/8.jpg" },
 ]
 
 
